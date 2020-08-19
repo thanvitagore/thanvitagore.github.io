@@ -1,0 +1,12 @@
+img	 {
+	height :200px;
+	border: solid white 7px;
+}
+body {
+	text-align:center;
+	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLvrNJVsZxGnipmp3MnVL9-M66ReHTS5ETg&usqp=CAU);
+	color: white;
+}
+h2	{
+	font-size: 30px;
+}
